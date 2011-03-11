@@ -10,5 +10,5 @@ spec = Gem::Specification.new do |s|
   s.email = "roger@seriousorange.com"
   s.homepage = "http://github.com/mogest/prawn-svg"
   s.dependencies << Gem::Dependency.new("prawn", ">= 0.8.4")
-  s.dependencies << Gem::Dependency.new("prawn-core", ">= 0.8.4")  
+#  s.dependencies << Gem::Dependency.new("prawn-core", ">= 0.8.4")  
 end
